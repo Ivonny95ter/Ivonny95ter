@@ -15,7 +15,7 @@
                     88  88  P    88             
                     88  88       88 
 
-         _Nada es verdad...Todo esta permitido_
+         Nada es verdad...Todo esta permitido
 
 - 👋 Hola, soy Ivonne Roma
 - 👀 Me interesa mucho la ciberseguridad, algoritmos de aprendizaje y la IA
